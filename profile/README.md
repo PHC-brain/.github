@@ -1,5 +1,5 @@
 # .github
-Prensner - Heesch collaboration
+Prensner - Heesch Brain data collaboration
 
 Repository containing all code used to obtain results 
 
